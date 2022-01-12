@@ -22,6 +22,18 @@ body {
   transition: none;
 }
 
+#white.one {
+  animation-duration: 0.3s;
+}
+
+#white.two {
+  animation-duration: 0.2s;
+}
+
+#white.three {
+  animation-duration: 0.15s;
+}
+
 @keyframes clignoter {
   0% {
     opacity: 0;
@@ -30,4 +42,3 @@ body {
     opacity: 1;
   }
 }
-

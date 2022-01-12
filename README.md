@@ -24,3 +24,4 @@ Commandes
 1. Plein écran : double click
 2. Quitter plein écran : echap / esc
 3. Start/Stop les clignotements : Touche espace
+4. Vitesse de clignotement : Touches 1 (min) à 3 (max)
