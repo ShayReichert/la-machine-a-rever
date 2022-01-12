@@ -1,13 +1,11 @@
-# Webpack Boilerplate
+# Machine à rêver
 
-This is a repossitory for [Webpack Configuration step by step - Development to Production](https://finmavis.dev/blog/webpack-configuration-step-by-step) guide.
+Cliquez [ici](#) pour ouvrir la machine.
 
 ## 🚀 Quick start
 
-To run this locally:
+Commandes
 
-1. Clone project `git clone https://github.com/finmavis/webpack-4-boilerplate.git .`
-2. Install all dependencies using `yarn` or `npm install`
-3. Start the development server using `yarn start` or `npm run start`
-4. Open up [http://localhost:3000](http://localhost:3000)
-5. Happy Hacking!
+1. Plein écran : double click
+2. Quitter plein écran : echap / esc
+3. Start/Stop les clignotements : Touche espace
