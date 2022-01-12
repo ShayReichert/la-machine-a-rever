@@ -16,7 +16,7 @@ module.exports = {
     main: path.resolve(ROOT_DIRECTORY, 'src/index.js'),
   },
   output: {
-    path: path.resolve(ROOT_DIRECTORY, 'build'),
+    path: path.resolve(ROOT_DIRECTORY, 'docs'),
     filename: '[name].[contenthash:8].bundle.js',
     chunkFilename: '[name].[contenthash:8].chunk.js',
   },
